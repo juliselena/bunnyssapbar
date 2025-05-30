@@ -185,7 +185,7 @@ function aardbeienSnijden() {
     blenderImg.classList.remove('hidden');
     blenderImg.classList.add('disabled');
     melkImg.classList.remove('hidden');
-    img.src = 'images/bunny8.png';
+    img.src = 'images/Bunny8.png';
     keukenMesImg.classList.add('hidden');
   }, 2000);
 }
