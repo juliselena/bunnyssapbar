@@ -143,11 +143,11 @@ function InSchenken() {
 
   setTimeout(() => {
     leegGlasImg.style.left = '900px';
-    leegGlasImg.style.top = '600px';
+    leegGlasImg.style.top = '550px';
     leegGlasImg.style.height = "350px";
     slurpGeluid.play();
     img.src = 'images/bunny6.png';
-    img.style.height = "650px";
+    img.style.height = "600px";
     blenderImg.classList.add('hidden');
     terugKnop.classList.remove('hidden');
   }, 2000);
@@ -247,11 +247,11 @@ function InSchenkenSmoothie() {
 
   setTimeout(() => {
     leegGlasImg.style.left = '900px';
-    leegGlasImg.style.top = '600px';
+    leegGlasImg.style.top = '550px';
     leegGlasImg.style.height = "350px";
     slurpGeluid.play();
     img.src = 'images/bunny6.png';
-    img.style.height = "650px";
+    img.style.height = "600px";
     blenderImg.classList.add('hidden');
     terugKnop.classList.remove('hidden');
   }, 2000);
