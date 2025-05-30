@@ -159,7 +159,7 @@ function InSchenken() {
 tevoorschijn in plaats van de sinaasappels. Als je op de aardbeien smoothie knop klikt dan verschijnt de 
 snijplank, aarbeien en het mes. De knoppen van het keuze menu verdwijnen door add hidden. */
 function Aardbeiensmoothie() {
-  img.src = 'images/bunny7.png';
+  img.src = 'images/Bunny7.png';
   knopSinasSap.classList.add('hidden');
   knopAardbeien.classList.add('hidden');
 
