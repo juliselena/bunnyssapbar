@@ -147,7 +147,7 @@ function InSchenken() {
     leegGlasImg.style.height = "350px";
     slurpGeluid.play();
     img.src = 'images/bunny6.png';
-    img.style.height = "600px";
+    img.style.height = "700px";
     blenderImg.classList.add('hidden');
     terugKnop.classList.remove('hidden');
   }, 2000);
